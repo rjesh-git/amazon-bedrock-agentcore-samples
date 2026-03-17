@@ -98,3 +98,4 @@
 - Will Ensor
 - Osman Santos
 - David Kaleko
+- Rajesh Sitaraman (rjesh-git)
