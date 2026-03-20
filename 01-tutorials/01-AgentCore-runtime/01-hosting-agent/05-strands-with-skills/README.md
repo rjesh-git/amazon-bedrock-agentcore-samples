@@ -29,6 +29,10 @@ In this tutorial we will describe how to deploy a skills-based agent to AgentCor
 
 For demonstration purposes, we will use a Strands Agent with the `AgentSkills` plugin, which loads skill definitions from a `skills/` directory. Each skill is a folder containing a `SKILL.md` file with YAML frontmatter (`name`, `description`, `allowed-tools`) and markdown instructions.
 
+<div style="text-align:left">
+    <img src="images/architecture_runtime.png" width="100%"/>
+</div>
+
 The agent uses two skills:
 - **weather-reporter**: Paired with a custom `@tool` weather function, formats weather information with emoji and recommendations.
 - **math-tutor**: Paired with the `calculator` tool from `strands-agents-tools`, solves math problems step-by-step.
