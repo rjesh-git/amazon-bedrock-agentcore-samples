@@ -45,7 +45,7 @@ This tutorial includes four hands-on examples to get you started:
 | **[01-strands-with-bedrock-model](01-strands-with-bedrock-model)**     | Strands Agents | Amazon Bedrock | Basic agent hosting with AWS native models |
 | **[02-langgraph-with-bedrock-model](02-langgraph-with-bedrock-model)** | LangGraph      | Amazon Bedrock | LangGraph agent workflows                  |
 | **[03-strands-with-openai-model](03-strands-with-openai-model)**       | Strands Agents | OpenAI         | Integration with external LLM providers    |
-| **[05-strands-with-skills](05-strands-with-skills)**                   | Strands Agents | Amazon Bedrock | Skills-based agent hosting with AgentSkills plugin |
+| **[06-strands-with-skills](06-strands-with-skills)**                   | Strands Agents | Amazon Bedrock | Skills-based agent hosting with AgentSkills plugin |
 
 ## Key Benefits
 
